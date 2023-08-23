@@ -15,4 +15,14 @@
     &:hover{
         background-color: #CCCCCC;
     }
+
+}
+
+.button[data-inversed = "true"]{
+    background-color: #171717;
+    color: #fff;
+
+    &:hover{
+        background-color: #383838;
+    }
 }
